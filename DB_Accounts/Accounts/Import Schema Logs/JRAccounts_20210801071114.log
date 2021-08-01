@@ -1,0 +1,84 @@
+01/08/2021 20:11:14	This log contains information about the import schema operation into project 'JRAccounts' on computer 'PSYCHO' by user 'jkr'.
+01/08/2021 20:11:14	Import of database schema has started.
+01/08/2021 20:11:22	Gathering database credentials
+01/08/2021 20:11:22	Gathering database options
+01/08/2021 20:11:22	Gathering users
+01/08/2021 20:11:22	Gathering roles
+01/08/2021 20:11:22	Gathering application roles
+01/08/2021 20:11:22	Gathering role memberships
+01/08/2021 20:11:22	Gathering filegroups
+01/08/2021 20:11:22	Gathering full-text catalogs
+01/08/2021 20:11:22	Gathering assemblies
+01/08/2021 20:11:22	Gathering certificates
+01/08/2021 20:11:22	Gathering asymmetric keys
+01/08/2021 20:11:22	Gathering symmetric keys
+01/08/2021 20:11:22	Gathering encrypted symmetric keys
+01/08/2021 20:11:22	Gathering schemas
+01/08/2021 20:11:22	Gathering XML schema collections
+01/08/2021 20:11:22	Gathering user-defined data types
+01/08/2021 20:11:22	Gathering user-defined types
+01/08/2021 20:11:22	Gathering table types
+01/08/2021 20:11:22	Gathering unique keys for table types
+01/08/2021 20:11:22	Gathering primary keys for table types
+01/08/2021 20:11:22	Gathering indexes for table types
+01/08/2021 20:11:22	Gathering check constraints for table types
+01/08/2021 20:11:22	Gathering default constraints for table types
+01/08/2021 20:11:22	Gathering partition functions
+01/08/2021 20:11:22	Gathering partition schemes
+01/08/2021 20:11:23	Gathering functions
+01/08/2021 20:11:23	Gathering encrypted functions
+01/08/2021 20:11:23	Gathering aggregates
+01/08/2021 20:11:23	Gathering procedures
+01/08/2021 20:11:23	Gathering encrypted procedures
+01/08/2021 20:11:23	Gathering tables
+01/08/2021 20:11:23	Gathering primary keys
+01/08/2021 20:11:23	Gathering unique constraints
+01/08/2021 20:11:23	Gathering foreign keys
+01/08/2021 20:11:23	Gathering default constraints
+01/08/2021 20:11:23	Gathering check constraints
+01/08/2021 20:11:23	Gathering views
+01/08/2021 20:11:23	Gathering encrypted views
+01/08/2021 20:11:23	Gathering indexes
+01/08/2021 20:11:23	Gathering statistics
+01/08/2021 20:11:23	Gathering full-text index stoplists
+01/08/2021 20:11:23	Gathering search property lists
+01/08/2021 20:11:23	Gathering search properties
+01/08/2021 20:11:23	Gathering full-text indexes
+01/08/2021 20:11:23	Gathering column store indexes
+01/08/2021 20:11:23	Gathering spatial indexes
+01/08/2021 20:11:23	Gathering XML indexes
+01/08/2021 20:11:23	Gathering Selective XML indexes
+01/08/2021 20:11:23	Gathering encrypted triggers
+01/08/2021 20:11:23	Gathering triggers
+01/08/2021 20:11:23	Gathering encrypted and clr ddl triggers
+01/08/2021 20:11:23	Gathering ddl triggers
+01/08/2021 20:11:23	Gathering synonyms
+01/08/2021 20:11:23	Gathering defaults
+01/08/2021 20:11:23	Gathering data constraint uddt bindings
+01/08/2021 20:11:23	Gathering rules
+01/08/2021 20:11:23	Gathering data constraint uddt bindings
+01/08/2021 20:11:23	Gathering message types
+01/08/2021 20:11:23	Gathering queues
+01/08/2021 20:11:23	Gathering contracts
+01/08/2021 20:11:23	Gathering services
+01/08/2021 20:11:23	Gathering event notifications
+01/08/2021 20:11:23	Gathering remote service bindings
+01/08/2021 20:11:23	Gathering broker priorities
+01/08/2021 20:11:23	Gathering signatures
+01/08/2021 20:11:23	Gathering data compression options
+01/08/2021 20:11:23	Gathering sequence types
+01/08/2021 20:11:23	Gathering security policies
+01/08/2021 20:11:23	Gather column encryption keys
+01/08/2021 20:11:23	Gathering column master keys
+01/08/2021 20:11:23	Gathering external data sources
+01/08/2021 20:11:23	Gathering external file formats
+01/08/2021 20:11:23	Gathering external tables
+01/08/2021 20:11:23	Gathering extended properties
+01/08/2021 20:11:23	Gathering credentials
+01/08/2021 20:11:23	Gathering logins
+01/08/2021 20:11:23	Gathering server audits
+01/08/2021 20:11:23	Scanning project for duplicate elements
+01/08/2021 20:11:23	Finished duplicate element processing
+01/08/2021 20:11:24	Finished importing database.
+01/08/2021 20:11:24	A summary of the import was saved to the following location: D:\GitSource\DB_Accounts\DB_Accounts\Accounts\Import Schema Logs\JRAccounts_20210801071114.log
+01/08/2021 20:11:24	Click Finish to continue...
