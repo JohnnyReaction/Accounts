@@ -1,0 +1,9 @@
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\bin\Debug\JRAccounts.dacpac
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\bin\Debug\Accounts.dll
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\bin\Debug\Accounts.pdb
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\obj\Debug\Accounts.dll
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\obj\Debug\Accounts.pdb
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\obj\Debug\Model.xml
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\obj\Debug\refactor.xml
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\obj\Debug\postdeploy.sql
+D:\GitSource\DB_Accounts\DB_Accounts\Accounts\obj\Debug\predeploy.sql
